@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Welcome to Hello World</title>
+<title>Welcome to first page of the project</title>
 </head>
 <body>
 Are you ready?
