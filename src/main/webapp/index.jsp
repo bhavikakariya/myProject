@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Welcome to page 1 of the project</title>
+<title>Yoo Pune</title>
 </head>
 <body>
 Are you ready?
