@@ -7,7 +7,7 @@
 <title>Page2</title>
 </head>
 <body>
-Your are in next page currently under developed, please click to go back to previous page.....
+Your are in next page currently under construction , please click to go back to previous page.....
 
 <a href=index.jsp>Click Here</a>
 </body>
